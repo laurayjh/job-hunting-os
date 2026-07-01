@@ -67,6 +67,14 @@ Every recommendation should include:
 
 The goal is to allow Laura to understand the context and make a decision within a short time without repeating the information gathering process.
 
+### 7. Prioritize clarity over completeness.
+
+The system should present only the most relevant information.
+
+Large amounts of information should be summarized before being presented.
+
+When possible, recommendations should be ranked and limited to a manageable number (e.g., Top 3 or Top 5), allowing Laura to make decisions without information overload.
+
 ---
 
 # Design Philosophy
@@ -79,10 +87,3 @@ AI handles information.
 
 Laura makes decisions.
 
-### 5. Prioritize clarity over completeness.
-
-The system should present only the most relevant information.
-
-Large amounts of information should be summarized before being presented.
-
-When possible, recommendations should be ranked and limited to a manageable number (e.g., Top 3 or Top 5), allowing Laura to make decisions without information overload.
