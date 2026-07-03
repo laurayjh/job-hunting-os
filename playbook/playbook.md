@@ -133,7 +133,9 @@ The loop runs on a weekly cadence and consists of five phases:
 
 **Goal:** Submit targeted, high-quality applications — not high-volume, low-quality ones.
 
-**Suggested cadence:** 1–2 new applications per week (quality over quantity)
+**Suggested cadence:** 3–5 targeted applications per week during active search periods.
+
+The goal is to maintain consistent momentum without turning the process into mass applications. Quality matters, but the pace should still be realistic for entry-level roles in Mainland China.
 
 **Steps:**
 
