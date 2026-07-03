@@ -142,12 +142,21 @@ The goal is to maintain consistent momentum without turning the process into mas
 - Research the target company deeply before writing anything:
   - Business model, recent news, products, team structure, and pain points.
   - Review the job description carefully and identify the top 3 requirements the hiring manager cares most about.
-- Customize the resume and cover letter for each application:
-  - Lead with the most relevant experience and achievements.
-  - Mirror the language and framing used in the job description where authentic.
-  - Quantify impact wherever possible.
-- Have AI review the tailored materials before submission and flag any gaps or weak signals.
-- Submit the application and immediately update the tracker with the submission date.
+Customize the resume for each application when necessary.
+- Lead with the most relevant experience and achievements.
+- Mirror the language and framing used in the job description where appropriate.
+- Quantify impact wherever possible.
+Prepare a cover letter only when:
+- It is explicitly required by the employer.
+- It provides a strategic advantage (e.g., research positions, overseas applications, or selected international companies).
+Have AI review the tailored materials before submission.
+The review should identify:
+- Missing keywords from the job description
+- Weak signals or unsupported claims
+- Potential improvements
+- Information that should be verified before submission
+- Before submission, AI must present its analysis and recommendations.
+- The application should only proceed after Laura explicitly approves the decision.
 - Record a brief note on why this role was chosen — this will help during interviews and retrospectives.
 
 **Output:** Submitted application with all materials archived in the tracker.
