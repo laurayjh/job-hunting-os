@@ -215,29 +215,38 @@ Each track runs the same five phases, adapted to local dynamics:
 **Output:** Updated tracker statuses and any responses logged.
 
 ---
-
----
-
 ## Phase 4: Interview Prep
+
+### CN Track
+
+**Goal:** Enter every interview well-prepared, adapted to CN recruiting formats.
+
+**Steps:**
+- Interviewer info may not be shared in advance — check 脉脉/领英中国 if possible, but don't rely on it.
+- Check whether the process includes written tests or aptitude assessments (行测/性格测评), common in CN campus recruiting, and prepare separately.
+- Some large companies use group interviews (群面) — prepare collaboration/leadership-oriented STAR stories, not just 1:1 narratives.
+- Prepare a 2-minute Chinese self-introduction, adjusted for state-owned/foreign/large-tech company style.
+- Prepare 5–7 STAR stories and 3–5 questions to ask.
+- Conduct at least one mock interview.
+- After each round, write down questions asked, how Laura answered, and what to improve.
+
+**Output:** Interview prep notes archived per company, plus a post-interview debrief.
+
+### Overseas Track
 
 **Goal:** Enter every interview well-prepared, confident, and with a clear narrative.
 
 **Steps:**
+- Research the interviewer(s) on LinkedIn if names are provided.
+- Prepare 5–7 STAR-format behavioral stories.
+- Prepare 3–5 specific questions to ask.
+- For technical/case interviews, practice likely question types.
+- Conduct at least one mock interview.
+- Prepare a 2-minute English self-introduction tailored to the company.
+- After each round, write down questions asked, how Laura answered, and what to improve.
 
-- As soon as an interview is scheduled, begin a dedicated prep session:
-  - Reread the job description and your submitted application materials.
-  - Research the interviewer(s) on LinkedIn if names are provided.
-  - Prepare 5–7 STAR-format behavioral stories that cover the most common competency areas.
-  - Prepare 3–5 specific, informed questions to ask the interviewer.
-- For technical or case interviews, identify the most likely question types and practice accordingly.
-- Conduct at least one mock interview session (with AI or a peer) before the real interview.
-- Prepare a clear, 2-minute self-introduction that is tailored to the company and role.
-- After each interview round, immediately write down:
-  - What questions were asked.
-  - How you answered.
-  - What you would improve.
+**Output:** Interview prep notes archived per company, plus a post-interview debrief.
 
-**Output:** Interview prep notes archived per company, and a post-interview debrief entry.
 
 ---
 
