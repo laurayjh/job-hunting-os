@@ -94,6 +94,22 @@ Laura makes decisions.
 
 The job hunting loop is a repeatable, weekly cycle designed to keep momentum, reduce anxiety, and continuously improve the quality of applications and interviews.
 
+This loop is split into two parallel tracks — **CN Track** (Mainland China) and **Overseas Track** — because the platform dynamics, communication tempo, and eligibility factors differ significantly between the two markets.
+
+---
+
+## Overview
+
+Each track runs the same five phases, adapted to local dynamics:
+
+1. **Explore** — Discover and evaluate new opportunities
+2. **Apply** — Prepare and submit targeted applications
+3. **Follow-up** — Track progress and maintain relationships
+4. **Interview Prep** — Research and practice before each interview
+5. **Reflect & Improve** — Review outcomes and update the system
+
+---
+
 ---
 
 ## Overview
@@ -112,7 +128,7 @@ The loop runs on a weekly cadence and consists of five phases:
 
 **Goal:** Identify a shortlist of high-quality opportunities that align with Laura's target role, industry, and values.
 
-**Suggested cadence:** 2–3 times per week
+**Suggested cadence:** Daily
 
 **Steps:**
 
@@ -131,51 +147,70 @@ The loop runs on a weekly cadence and consists of five phases:
 
 ## Phase 2: Apply
 
-**Goal:** Submit targeted, high-quality applications — not high-volume, low-quality ones.
+### CN Track
 
-**Suggested cadence:** 3–5 targeted applications per week during active search periods.
+**Goal:** Submit targeted, high-quality applications adapted to chat-based platform dynamics.
 
-The goal is to maintain consistent momentum without turning the process into mass applications. Quality matters, but the pace should still be realistic for entry-level roles in Mainland China.
+**Suggested cadence:** 3–5 targeted applications per week
 
 **Steps:**
+- BOSS直聘 is chat-based — HR may read and respond within minutes to hours, so prepare short, precise opening messages rather than long-form materials.
+- No cover letter by default, unless explicitly requested.
+- Company research can be lighter — focus on core business and JD-alignment points rather than deep due diligence.
+- Have AI review the opening message and resume snippet before sending.
+- The application should only proceed after Laura explicitly approves.
+- Record a brief note on why this role was chosen.
 
-- Research the target company deeply before writing anything:
-  - Business model, recent news, products, team structure, and pain points.
-  - Review the job description carefully and identify the top 3 requirements the hiring manager cares most about.
-Customize the resume for each application when necessary.
-- Lead with the most relevant experience and achievements.
-- Mirror the language and framing used in the job description where appropriate.
-- Quantify impact wherever possible.
-Prepare a cover letter only when:
-- It is explicitly required by the employer.
-- It provides a strategic advantage (e.g., research positions, overseas applications, or selected international companies).
-Have AI review the tailored materials before submission.
-The review should identify:
-- Missing keywords from the job description
-- Weak signals or unsupported claims
-- Potential improvements
-- Information that should be verified before submission
-- Before submission, AI must present its analysis and recommendations.
-- The application should only proceed after Laura explicitly approves the decision.
-- Record a brief note on why this role was chosen — this will help during interviews and retrospectives.
+**Output:** Submitted application with materials archived in the tracker.
 
-**Output:** Submitted application with all materials archived in the tracker.
+### Overseas Track
+
+**Goal:** Submit targeted, high-quality applications — not high-volume, low-quality ones.
+
+**Suggested cadence:** 3–5 targeted applications per week
+
+**Steps:**
+- Research the target company deeply before writing anything.
+- Customize the resume for each application when necessary.
+- Prepare a cover letter only when explicitly required or strategically advantageous.
+- Have AI review the tailored materials before submission.
+- The application should only proceed after Laura explicitly approves.
+- Record a brief note on why this role was chosen.
+
+**Output:** Submitted application with materials archived in the tracker.
 
 ---
 
+---
 ## Phase 3: Follow-up
+
+### CN Track
+
+**Goal:** Stay visible in a chat-based environment without being intrusive.
+
+**Steps:**
+- If the message shows "已读" (read) with no reply, a brief, polite follow-up can be sent the same day or the next day.
+- Keep the follow-up message short: one line expressing interest, one line adding value.
+- Update referral contacts promptly and thank them.
+- Move stale applications (no response after 1–2 weeks) to `Closed / No Response`.
+- Do not send more than 2–3 follow-up messages per application.
+
+**Output:** Updated tracker statuses and any responses logged.
+
+### Overseas Track
 
 **Goal:** Maintain visibility with recruiters and hiring managers without being intrusive.
 
 **Steps:**
-
-- If no response within 7–10 business days, send a single, polite follow-up message.
-- Keep follow-up messages concise: one sentence reaffirming interest, one sentence offering value, and a clear call to action.
-- For referrals or warm contacts, update them on the application status and express gratitude.
-- Move stale applications (no response after 3+ weeks) to `Closed / No Response` in the tracker.
+- If no response within 7–10 business days, send a single, polite follow-up email.
+- Keep follow-up messages concise.
+- Update referral contacts and express gratitude.
+- Move stale applications (no response after 3+ weeks) to `Closed / No Response`.
 - Do not send more than two follow-ups per application.
 
 **Output:** Updated tracker statuses and any responses logged.
+
+---
 
 ---
 
@@ -208,7 +243,7 @@ The review should identify:
 
 **Suggested cadence:** Once per week (e.g., every Sunday evening)
 
-**Weekly reflection questions:**
+**Shared weekly reflection questions (both tracks):**
 
 - How many opportunities were explored? How many passed the fit filter?
 - How many applications were submitted? Were they high quality?
@@ -216,6 +251,12 @@ The review should identify:
 - Is the target role profile still accurate, or does it need adjustment?
 - Are there patterns in rejections or non-responses that suggest a systemic issue?
 - What is one specific thing to improve next week?
+
+**CN Track — additional question:**
+- Were any opportunities blocked or dropped this week due to 应届生身份/户口/五险一金 issues? Does the target profile need adjusting because of this?
+
+**Overseas Track — additional question:**
+- Were any opportunities blocked or dropped this week due to visa sponsorship/PR pathway issues?
 
 **Continuous improvement actions:**
 
@@ -226,6 +267,8 @@ The review should identify:
 - Update this playbook if a new pattern or best practice is discovered.
 
 **Output:** A brief weekly retrospective note (3–5 bullet points max) stored in the tracker or a dedicated log.
+
+---
 
 ---
 
