@@ -237,12 +237,16 @@ Each tracked opportunity should include the following fields at minimum:
 |---|---|
 | Company | Company name |
 | Role | Job title |
+| Location| Job Location|
 | Source | Where the opportunity was found |
-| Date Added | When it was added to the tracker |
+| JD Link | Original job posting|
+| Date Added | When the opportunity entered the tracker |
+| Deadline | Application deadline (if available) |
+| Resume Version | Resume version used for this application |
 | Date Applied | Submission date |
 | Status | To Apply / Applied / Interview / Offer / Closed |
 | Fit Score | Subjective 1–5 rating of role-to-profile fit |
-| Next Action | What needs to happen next and by when |
+| Next Action |  Next required action and due date |
 | Notes | Key context, referrals, red flags, or interview notes |
 
 ---
