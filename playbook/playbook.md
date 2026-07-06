@@ -112,22 +112,40 @@ Each track runs the same five phases, adapted to local dynamics:
 
 ## Phase 1: Explore
 
-**Goal:** Identify a shortlist of high-quality opportunities that align with Laura's target role, industry, and values.
+### CN Track
+
+**Goal:** Identify a shortlist of high-quality opportunities aligned with Laura's target role.
 
 **Suggested cadence:** Daily
 
 **Steps:**
+- Source from BOSS直聘, 脉脉, campus recruiting platforms (牛客网, 实习僧), alumni/referral WeChat groups, and headhunters.
+- Fit assessment includes CN-specific checks:
+  - Does this role require "应届生身份" (fresh-graduate status), and does Laura qualify for this application channel?
+  - Does the role involve 户口 or 编制 considerations?
+  - Is the 五险一金 base city acceptable?
+- Move qualified opportunities into the tracker with status `To Apply`.
+- Discard roles that clearly don't fit — do not apply out of anxiety.
 
-- Define and maintain a clear target role profile (title, seniority, industry, location, company size).
-- Source opportunities from a diverse set of channels: job boards, company career pages, LinkedIn, referrals, and professional communities.
-- For each opportunity, perform a quick fit assessment before investing time in an application:
+**Output:** Weekly shortlist of 3–5 high-fit CN opportunities.
+
+### Overseas Track
+
+**Goal:** Identify a shortlist of high-quality opportunities aligned with Laura's target role.
+
+**Suggested cadence:** 2–3 times per week
+
+**Steps:**
+- Source from job boards, company career pages, LinkedIn, referrals, and professional communities.
+- Fit assessment includes:
   - Does the role match the target profile?
-  - Is the company financially stable and culturally aligned?
-  - Is the expected compensation range acceptable?
-- Move qualified opportunities into the Application Tracker with status `To Apply`.
-- Deprioritize or discard roles that clearly do not fit — do not apply out of anxiety.
+  - Is visa sponsorship available?
+  - Is there a viable PR pathway?
+- Move qualified opportunities into the tracker with status `To Apply`.
+- Discard roles that clearly don't fit.
 
-**Output:** A weekly shortlist of 3–5 high-fit opportunities ready to enter Phase 2.
+**Output:** Weekly shortlist of 3–5 high-fit overseas opportunities.
+
 
 ---
 
