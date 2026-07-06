@@ -112,15 +112,19 @@ Each track runs the same five phases, adapted to local dynamics:
 
 ---
 
+---
+
 ## Overview
 
-The loop runs on a weekly cadence and consists of five phases:
+Each track runs the same five phases, adapted to local dynamics:
 
 1. **Explore** — Discover and evaluate new opportunities
 2. **Apply** — Prepare and submit targeted applications
 3. **Follow-up** — Track progress and maintain relationships
 4. **Interview Prep** — Research and practice before each interview
 5. **Reflect & Improve** — Review outcomes and update the system
+
+---
 
 ---
 
